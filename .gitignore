@@ -1,0 +1,9 @@
+mochawesome-report/
+node_modules/
+report/
+.DS_Store
+
+# Temporary Cypress files
+cypress/downloads
+cypress/screenshots
+cypress/videos
